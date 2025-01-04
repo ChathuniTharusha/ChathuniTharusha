@@ -1,16 +1,15 @@
 # Hi 👋, I'm Chathuni Tharusha  
 **Aspiring Software Developer | Computer Engineering Undergraduate**  
 
-<p align="right">  
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9jeTc2dWt4MGNieWh5MXRyYTFuY2NlNHQ5NHRyc2g5MHF4c2hreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Coding Animation" width="400" />  
-</p> 
-
-- 🔭 I’m currently working on **Thrift and Shift Online Shopping Platform Project**  
-- 🌱 I’m exploring **DevOps** and **Machine Learning**  
-- 💬 Ask me about **Java, Python, C++, React, Node.js**  
-- 📫 Reach me at **chathunisubashinghe00@gmail.com**  
-- 🎯 *"If you can't explain it simply, you don't understand it well enough."*  
-
+<p align="center">  
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9jeTc2dWt4MGNieWh5MXRyYTFuY2NlNHQ5NHRyc2g5MHF4c2hreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Coding Animation" width="400" align="left" />  
+<div> <ul> 
+<li>- 🔭 I’m currently working on **Thrift and Shift Online Shopping Platform Project**  </li>
+<li>- 🌱 I’m exploring **DevOps** and **Machine Learning**  </li>
+<li>- 💬 Ask me about **Java, Python, C++, React, Node.js**  </li>
+<li>- 📫 Reach me at **chathunisubashinghe00@gmail.com**  </li>
+<li>- 🎯 *"If you can't explain it simply, you don't understand it well enough."*  </li>
+</ul> </div> </p>
 ---
 
 ### 🌐 Connect with me:  
