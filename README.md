@@ -2,7 +2,8 @@
 **Aspiring Software Developer | Computer Engineering Undergraduate**  
 
 <p align="center">  
- <iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" style="border:none;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> </p> 
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9jeTc2dWt4MGNieWh5MXRyYTFuY2NlNHQ5NHRyc2g5MHF4c2hreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Coding Animation" width="400" />  
+</p> 
 
 - 🔭 I’m currently working on **Thrift and Shift Online Shopping Platform Project**  
 - 🌱 I’m exploring **DevOps** and **Machine Learning**  
