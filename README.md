@@ -1,7 +1,7 @@
 # Hi 👋, I'm Chathuni Tharusha
 **Aspiring Software Developer | Computer Engineering Undergraduate**
 <p align="center">
-  <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://iconscout.com/lottie-animation/female-web-developer-7362399)" alt="Girl Coding Animation" width="400" />
+  <img src="https://iconscout.com/lottie-animation/female-web-developer-7362399" alt="Girl Coding Animation" width="400" />
 </p>
 
 - 🔭 I’m currently working on **Thrift and Shift Online Shooping Platform Project**
