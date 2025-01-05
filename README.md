@@ -3,16 +3,24 @@
 
 ---
 
-<p align="center">  
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9jeTc2dWt4MGNieWh5MXRyYTFuY2NlNHQ5NHRyc2g5MHF4c2hreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Coding Animation" width="300"/>  
-</p>  
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-## 📝 About Me  
-- 🔭 Currently working on **Thrift and Shift Online Shopping Platform**  
-- 🌱 Exploring **DevOps and Machine Learning**  
-- 💬 Ask me about **Java, Python, C++, React, Node.js**  
-- 📫 Reach me at **chathunisubashinghe00@gmail.com**  
-- 🎯 *"If you can't explain it simply, you don't understand it well enough."*  
+<!-- Column 1: GIF -->
+<div style="flex: 1; text-align: center;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9jeTc2dWt4MGNieWh5MXRyYTFuY2NlNHQ5NHRyc2g5MHF4c2hreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Coding Animation" width="300" />
+</div>
+
+<!-- Column 2: About Me -->
+<div style="flex: 1; padding-left: 20px;">
+  ## 📝 About Me  
+  - 🔭 Currently working on **Thrift and Shift Online Shopping Platform**  
+  - 🌱 Exploring **DevOps and Machine Learning**  
+  - 💬 Ask me about **Java, Python, C++, React, Node.js**  
+  - 📫 Reach me at **chathunisubashinghe00@gmail.com**  
+  - 🎯 *"If you can't explain it simply, you don't understand it well enough."*  
+</div>
+
+</div>
 
 ---
 
@@ -47,11 +55,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ChathuniTharusha&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuniTharusha&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />  
 </p>  
-
----
-
-### ✨ Design Enhancements
-- **SVG Dividers**: Add cool horizontal dividers to separate sections for a modern look.  
-  Example:  
-  ```html
-  <img src="https://raw.githubusercontent.com/ChathuniTharusha/ChathuniTharusha/main/divider.svg" alt="divider" />
