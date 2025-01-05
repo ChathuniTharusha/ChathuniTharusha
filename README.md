@@ -2,16 +2,16 @@
 **Aspiring Software Developer | Computer Engineering Undergraduate**  
 
 <p align="center">  
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9jeTc2dWt4MGNieWh5MXRyYTFuY2NlNHQ5NHRyc2g5MHF4c2hreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Coding Animation" width="400" align="left" />  
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9jeTc2dWt4MGNieWh5MXRyYTFuY2NlNHQ5NHRyc2g5MHF4c2hreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Coding Animation" width="400" align="left" style="margin-right: 20px;" />  
 </p>  
 
-<div style="margin-left: 420;">  
+<div>  
 <ul>  
-  <li>- 🔭 I’m currently working on <b>Thrift and Shift Online Shopping Platform Project</b> </li>  
-  <li>- 🌱 I’m exploring <b>DevOps and Machine Learning</b> </li>  
-  <li>- 💬 Ask me about <b>Java, Python, C++, React, Node.js</b> </li>  
-  <li>- 📫 Reach me at <b>chathunisubashinghe00@gmail.com</b> </li>  
-  <li>- 🎯 <i>"If you can't explain it simply, you don't understand it well enough."</i> </li>  
+  <li>🔭 I’m currently working on <b>Thrift and Shift Online Shopping Platform Project</b></li>  
+  <li>🌱 I’m exploring <b>DevOps and Machine Learning</b></li>  
+  <li>💬 Ask me about <b>Java, Python, C++, React, Node.js</b></li>  
+  <li>📫 Reach me at <b>chathunisubashinghe00@gmail.com</b></li>  
+  <li>🎯 <i>"If you can't explain it simply, you don't understand it well enough."</i></li>  
 </ul>  
 </div>  
 
@@ -38,6 +38,7 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>  
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>  
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>  
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>  
 </p>  
 
 ---
