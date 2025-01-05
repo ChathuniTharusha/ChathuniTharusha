@@ -5,7 +5,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9jeTc2dWt4MGNieWh5MXRyYTFuY2NlNHQ5NHRyc2g5MHF4c2hreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Coding Animation" width="400" align="left" />  
 </p>  
 
-<div style="margin-left: 420px;">  
+<div style="margin-left: 420;">  
 <ul>  
   <li>- 🔭 I’m currently working on <b>Thrift and Shift Online Shopping Platform Project</b> </li>  
   <li>- 🌱 I’m exploring <b>DevOps and Machine Learning</b> </li>  
